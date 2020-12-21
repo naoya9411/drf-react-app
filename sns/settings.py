@@ -164,7 +164,7 @@ LOGGING = {
         },
     },
 
-    # フォーマッタの設定〜ー
+    # フォーマッタの設定
     'formatters': {
         'dev': {
             'format': '/t'.join([
